@@ -369,14 +369,14 @@
         },
         {
           "name": "Part Name",
-          "ioValue": "Drawer_Rail_innie",
-          "currentEquation": "Drawer_Rail_innie"
+          "ioValue": "Static_Rail_tabbed",
+          "currentEquation": "Static_Rail_tabbed"
         }
       ],
       "type": null,
       "resolution": 96,
       "importIndex": 0,
-      "partName": "Drawer_Rail_innie"
+      "partName": "Static_Rail_tabbed"
     },
     {
       "atomType": "Rectangle",
