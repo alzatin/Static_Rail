@@ -4,6 +4,11 @@
 
 ![](/project.svg)
 
+## Inputs
+
+- **ply_thick** (number)
+
+
 
 
  
